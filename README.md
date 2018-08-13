@@ -1,2 +1,2 @@
-# stock-processor
+# Stock Processor
 Personal project exploring stock market APIs
